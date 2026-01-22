@@ -23,7 +23,7 @@ body {
     line-height: 1.4;
     overflow-x: hidden;
     position: relative;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('desktop-novo.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('desktop-novo.webp');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -36,7 +36,7 @@ body.thanks-page {
 
 @media (max-width: 767px) {
     body {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('mobile.png');
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('mobile.webp');
         background-attachment: scroll;
         /* Better performance on mobile backgrounds */
         background-position: center top;
